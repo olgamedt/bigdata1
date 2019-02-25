@@ -1,6 +1,6 @@
 // Physical device information for board and sensor
 #define DEVICE_ID             WiFi.macAddress()     // already configured
-#define DEVICE_STUDENT        "Tolga"
+#define DEVICE_STUDENT        "TolgaFeatherTwo"
 #define DEVICE_TYPE           "tempSensor"
 #define DEVICE_LOCATION_LAT   "59.390548"
 #define DEVICE_LOCATION_LON   "17.923066"      

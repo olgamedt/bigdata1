@@ -4,7 +4,7 @@
 #define DEVICE_TYPE           "tempSensor"
 #define DEVICE_LOCATION_LAT   "59.390548"
 #define DEVICE_LOCATION_LON   "17.923066"      
-#define DEVICE_SEND_INTERVAL 60000           //default 3600000 ms = 1 hour
+#define DEVICE_SEND_INTERVAL 617143           //default 3600000 ms = 1 hour
 
 #define WIFI_SSID             "IoT"
 #define WIFI_PASS             "IoT2018!"
